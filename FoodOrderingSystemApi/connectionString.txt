@@ -1,0 +1,1 @@
+﻿Data source=DEL1-LHP-N67743;initial catalog=FoodOrderDb;integrated security=true;
